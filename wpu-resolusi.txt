@@ -4,3 +4,5 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - kolaborasi dengan lebih banyak expert
 - Membuat vlogs
+-Menambahkab fitur login
+-Menambahkan fitur logout
